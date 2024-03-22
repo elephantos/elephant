@@ -1,1 +1,5 @@
-CentOS-8-4-2105-aarch64-dvd-custom-202107301400.iso  地址：
+CentOS-8-4-2105-aarch64-dvd-custom-202107301400.iso 
+和
+CentOS-6.9-i386-bin-DVD1.iso 
+
+链接: https://pan.baidu.com/s/153gqVOMScSd8601Lg4xtxg?pwd=9527
